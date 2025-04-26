@@ -21,6 +21,7 @@ Data Compression, Business Rhetoric
 Gained hands-on experience working in a team environment by fulfilling a simulated customer order as part of a summer project. 🏆
 
 ## 📫 Contact
-Email: k4ty224@mail.ru ✉️
-Telegram: @Ytger 🤖
+📧 **Email:** k4ty224@mail.ru  
+🤖 **Telegram:** [@Ytger](https://t.me/Ytger)  
+
 I am currently seeking opportunities to contribute to projects that leverage the full ML lifecycle, from model development to robust deployment and maintenance.
