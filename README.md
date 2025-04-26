@@ -5,10 +5,17 @@ Hi,
 - I'm expanding my expertise in MLOps to streamline the deployment and maintenance of machine learning models.
 
 ## 🛠️ Skills & Expertise
-Programming Languages: Python 🐍, C++ :computer:, SQL 🗄️
-Tools & Technologies: Scikit-learn, PyTorch, TensorFlow, Docker, kubernetes, Git
-Databases: PostgreSQL, MySQL, MongoDB, Neo4j, vectors databaes
-Specialized Skills: Data Compression, Business Rhetoric
+**Programming Languages:**  
+Python 🐍, C++ :computer:, SQL 🗄️  
+
+**Tools & Technologies:**  
+Scikit-learn, PyTorch, TensorFlow, Docker, Kubernetes, Git  
+
+**Databases:**  
+PostgreSQL, MySQL, MongoDB, Neo4j, Vector Databases  
+
+**Specialized Skills:**  
+Data Compression, Business Rhetoric
 
 ## 💼 Experience
 Gained hands-on experience working in a team environment by fulfilling a simulated customer order as part of a summer project. 🏆
