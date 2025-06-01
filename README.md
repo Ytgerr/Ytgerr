@@ -15,10 +15,11 @@ Scikit-learn, PyTorch, TensorFlow, Docker, Kubernetes, Git
 PostgreSQL, MySQL, MongoDB, Neo4j, Vector Databases  
 
 **Specialized Skills:**  
-Data Compression, Business Rhetoric
+Deep Learning in search, Business Rhetoric
 
 ## 💼 Experience
 Gained hands-on experience working in a team environment by fulfilling a simulated customer order as part of a summer project. 🏆
+Competitions in [kaggle](https://www.kaggle.com/andreizhdanov).
 
 ## 📫 Contact
 📧 **Email:** k4ty224@mail.ru  
