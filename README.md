@@ -1,7 +1,7 @@
 ## 😺 About Me
 Hi, 
 - I'm a Machine Learning Engineer from Innopolis.
-- I specialize in Traditional Machine Learning and Deep Learning (mentioning specific architectures where applicable, e.g., Transformers, RNNs).
+- I specialize in Traditional Machine Learning and NLP.
 - I'm expanding my expertise in MLOps to streamline the deployment and maintenance of machine learning models.
 
 ## 🛠️ Skills & Expertise
